@@ -3,7 +3,7 @@ return  arr = []
 end
 
 def create_an_array
-  arr =Array.new
+return  arr =[1,2,3,4]
 end
 
 def add_element_to_end_of_array(array, element)
